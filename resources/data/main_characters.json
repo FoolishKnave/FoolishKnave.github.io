@@ -1,0 +1,239 @@
+{
+  "alric": {
+    "name": "Alric",
+    "lname": [ "Tides", "TideStrike", "Depths", "Force" ],
+    "titles": [ "Ironbreaker", "Keep's Bane" ],
+    "desc": "Jacked AF",
+    "orgs": [ "Ironforge Family", "High Court" ],
+    "cultivation": {
+      "essences": [
+        {
+          "name": "Tides",
+          "desc": "The destructive inevitability of the tides against a ship."
+        },
+        {
+          "name": "Hammer",
+          "desc": "The duality of creation and destruction in smiting."
+        },
+        {
+          "name": "Flood",
+          "desc": "The sudden loss of control"
+        }
+      ],
+      "abilities": [
+        {
+          "name": "Erosion",
+          "from": "Tides",
+          "desc": "Focuses on a single target. The target feels a pressure of helplessness."
+        },
+        {
+          "name": "Strike",
+          "from": "Hammer",
+          "desc": "A powerful deforming hit."
+        },
+        {
+          "name": "Surge",
+          "from": "Flood",
+          "desc": "A sudden, powerful, disruptive charge."
+        }
+      ],
+      "combinations": [
+        {
+          "name": "Fracture",
+          "from": "Erosion, Strike",
+          "desc": "Exploit a weak point as an attack; more awareness weak points."
+        },
+        {
+          "name": "Impact",
+          "from": "Strike, Surge",
+          "desc": "A deceptively powerful hit; greater control/coordination."
+        },
+        {
+          "name": "Pressue",
+          "from": "Surge, Erosion",
+          "desc": "A variable (depends on intent) aura of a feeling of helplessness and imminent danger."
+        }
+      ],
+      "truth": {
+        "name": "Force",
+        "desc": "Control the inertia of things he's in contact with."
+      }
+    },
+    "symbols": [
+      {
+        "name": ""
+      }
+    ]
+  },
+  "danny": {
+    "name": "Danny",
+    "lname": [ "Lute", "Lucry", "Charm", "Charisma" ],
+    "titles": [ "Heartbreaker", "Heartkeeper" ],
+    "desc": "Cheeky Bugger",
+    "orgs": [ "High Court" ],
+    "cultivation": {
+      "essences": [
+        {
+          "name": "Lute",
+          "desc": "The ability to express how he feels."
+        },
+        {
+          "name": "Blue Jay",
+          "desc": "Notices the how his pet blue jay interacts by watching and imitating people."
+        },
+        {
+          "name": "Breeze",
+          "desc": "Feels the calming effects of a breeze while introspecting."
+        }
+      ],
+      "abilities": [
+        {
+          "name": "Perform",
+          "from": "Lute",
+          "desc": "Project an emotion to others, and has an increased memory of and receptiveness to other's emotions."
+        },
+        {
+          "name": "Mimicry",
+          "from": "Blue Jay",
+          "desc": "Pick up on cues in people to fit into a social situation or read an opponent's style."
+        },
+        {
+          "name": "Serenity",
+          "from": "Breeze",
+          "desc": "View his emotions objectively to avoid external influences."
+        }
+      ],
+      "combinations": [
+        {
+          "name": "Placate",
+          "from": "Serenity, Mimicry",
+          "desc": "Targeted aura to calm angry people."
+        },
+        {
+          "name": "Persuade",
+          "from": "Mimicry, Perform",
+          "desc": "Targeted aura to make people more amenable to Danny's suggestions."
+        },
+        {
+          "name": "Endear",
+          "from": "Perform, Serenity",
+          "desc": "Targeted aura to make people think more highly of people."
+        }
+      ],
+      "truth": {
+        "name": "Charisma",
+        "desc": "Able to amplify or suppress existing emotions."
+      }
+    },
+    "symbols": [
+      {
+        "name": "Birds"
+      }
+    ]
+  },
+  "ari": {
+    "name": "Ari",
+    "lname": [ "Wheel", "Tureel" ],
+    "desc": "Badass priate chick.",
+    "orgs": [ "Northern Priates", "Consumus Syndicate" ],
+    "cultivation": {
+      "essences": [
+        {
+          "name": "Wheel",
+          "desc": "placeholder"
+        },
+        {
+          "name": "Cutlass",
+          "desc": "placeholder"
+        },
+        {
+          "name": "Daylily",
+          "desc": "placeholder"
+        }
+      ],
+      "abilities": [
+        {
+          "name": "Steer",
+          "from": "Wheel",
+          "desc": "placeholder"
+        },
+        {
+          "name": "Slash",
+          "from": "Cutlass",
+          "desc": "placeholder"
+        },
+        {
+          "name": "Nurture",
+          "from": "Daylily",
+          "desc": "placeholder"
+        }
+      ]
+    },
+    "symbols": [
+
+    ]
+  },
+  "devon": {
+    "name": "Devon",
+    "lname": [ "Sword", "Swordspark" ],
+    "desc": "Nerdy sword dude",
+    "cultivation": {
+      "essences": [
+        {
+          "name": "Sword",
+          "desc": "placeholder"
+        },
+        {
+          "name": "Candle",
+          "desc": "placeholder"
+        },
+        {
+          "name": "Bonfire",
+          "desc": "placeholder"
+        }
+      ],
+      "abilities": [
+        {
+          "name": "Spark",
+          "from": "Candle",
+          "desc": "placeholder"
+        }
+      ]
+    },
+    "symbols": [
+
+    ]
+  },
+  "kurtus": {
+    "name": "Kurtus",
+    "lname": [ "Venom", "Tensevenom" ],
+    "desc": "Cajun/Austrailian",
+    "cultivation": {
+      "essences": [
+        {
+          "name": "Venom",
+          "desc": "placeholder"
+        },
+        {
+          "name": "Web",
+          "desc": "placeholder"
+        }
+      ],
+      "abilities": [
+        {
+          "name": "Antivenom",
+          "from": "Venom",
+          "desc": "All poisons and venoms get him drunk, rather than hurt"
+        },
+        {
+          "name": "Tension",
+          "from": "Web",
+          "desc": "Can walk on water or mud without sinking"
+        }
+      ]
+    },
+    "symbols": [
+
+    ]
+  }
+}

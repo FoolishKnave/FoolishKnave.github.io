@@ -1,0 +1,1080 @@
+{
+	"home": {
+		"title": "Home",
+		"sections": {
+			"about": {
+				"text": "About",
+				"children": [
+					"Danny is the son of a barkeep and drunk who just tried to stay out of the limelight. Alric the son of a knight, proud scion of a rising noble house. Alric wanted nothing more than to please his family and be an honest man. Danny wasn't quite sure what he wanted, but he knew it wasn't this. So when things go poorly for Alric, Danny senses an opportunity; together the sworn brothers embark on the path towards adventure. Hopefully the tumultuous Cyruth empire is prepared for their antics."
+				]
+			},
+			"author": {
+				"text": "Author",
+				"children": [
+					"Some asshat"
+				]
+			}
+		}
+	},
+	"timeline": {
+		"title": "Timeline",
+		"sections": {
+			"calendar": {
+				"text": "Calendar",
+				"children": [
+					"The calendar is split into four seasons, each season starts with a feast day on its respective equinox or solstice. The seasons are split into early- mid- and late- 'months' each consisting of 5 weeks of 6 days."
+				]
+			},
+			"prolog": {
+				"text": "The Prolog",
+				"children": [
+					{
+						"text": "The Story Begins",
+						"children": [
+							"Danny and Alric loose a fight with Bruno"
+						]
+					}
+				]
+			},
+			"forest": {
+				"text": "The Forest",
+				"children": [
+					{
+						"text": "Nameday",
+						"children": [
+							"Spring 1: Equinox",
+							"Danny and Alric set off on an adventure"
+						]
+					},
+					{
+						"text": "Respite",
+						"children": [
+							"Spring 1, Week 1, Day 1",
+							"Alric and Danny unknowningly aid and then kill a heritic"
+						]
+					},
+					{
+						"text": "Meeting Ash",
+						"children": [
+							"Spring 1, Week 1, Day 1 to Day 4",
+							"Danny begins hearing a something almost like a lute in the distance as they travel and notices small amounts of food are going missing. After placing ash around some food that is left out they discover bird tracks in it the next morning. Danny manages to coax the bird into his hand and names it Ash."
+						]
+					},
+					{
+						"text": "Thirven",
+						"children": [
+							"Spring 1, Week 1, Day 5 to Week 2, Day 2",
+							"Alric and Danny meet some reformed bandits and have their expectations challenged again."
+						]
+					},
+					{
+						"text": "Whole",
+						"children": [
+							"Spring 1, Week 3, Day 2 to Week 11, Day 4",
+							"They stay here for a while, it is where Lord Time inspires Alric. They leave after a confrontation with Erin."
+						]
+					},
+					{
+						"text": "Meeting the Champion",
+						"children": [
+							"The bros meet the The Champion of Storms and do some training"
+						]
+					},
+					{
+						"text": "Infiltrating the Sect",
+						"children": [
+							"The bros attempt the sneak into a sect to learn about the heritic's deal"
+						]
+					},
+					{
+						"text": "Party City",
+						"children": [
+							""
+						]
+					},
+					{
+						"text": "Traveling the Tribbals",
+						"children": [
+							""
+						]
+					},
+					{
+						"text": "To Baymoth",
+						"children": [
+							""
+						]
+					},
+					{
+						"text": "Helping Grandpa",
+						"children": [
+							""
+						]
+					},
+					{
+						"text": "Investigating the Tournament",
+						"children": [
+							""
+						]
+					},
+					{
+						"text": "Resolution",
+						"children": [
+							""
+						]
+					}
+				]
+			}
+		}
+	},
+	"culture": {
+		"title": "Culture",
+		"sections": {
+			"history": {
+				"text": "History",
+				"children": [
+					"The history of the high court and Cyruth",
+					{
+						"text": "Original Settlers",
+						"children": [
+							"Humanity originally came to Cyruth from a distant continent. There are only two surviving members from the group: Lord Time and the Grand Elder of the Kinnabari."
+						]
+					},
+					{
+						"text": "Period of Chaos",
+						"children": [
+							"The original settlers founded many cities which began to fight among themselves. The inter-city conflicts and the untamed wilds of the continent forced the cultre to become extremly matrial; resulting in many forms of study, including magic, were lost."
+						]
+					},
+					{
+						"text": "The Great Calamity",
+						"children": [
+							"A group consisting of The Lords Time, Space, Fate, Mystery, and Fisher, aided by Growth fight and kill 'The Great Calamity' a young dragon residing on a mountain in central Cyruth. After the dragon died, the High Court was founded at the peak of the mountain and Crossway at its base."
+						]
+					}
+				]
+			}
+		}
+	},
+	"main-characters": {
+		"title": "Main Characters",
+		"sections": {
+			"alric": {
+				"text": "Alric",
+				"children": [
+					"Jacked AF",
+					{
+						"text": "Cultivation",
+						"children": [
+							{
+								"text": "Essences",
+								"children": [
+									{
+										"text": "Tides",
+										"children": [
+											"The destructive inevitability of the tides against a ship."
+										]
+									},
+									{
+										"text": "Hammer",
+										"children": [
+											"The duality of creation and destruction in smiting."
+										]
+									},
+									{
+										"text": "Flood",
+										"children": [
+											"The sudden loss of control"
+										]
+									}
+								]
+							},
+							{
+								"text": "Abilities",
+								"children": [
+									{
+										"text": "Erosion",
+										"children": [
+											"From Tides",
+											"Focuses on a single target. The target feels a pressure of helplessness."
+										]
+									},
+									{
+										"text": "Strike",
+										"children": [
+											"From Hammer",
+											"A powerful deforming hit."
+										]
+									},
+									{
+										"text": "Surge",
+										"children": [
+											"From Flood",
+											"A sudden, powerful, disruptive charge."
+										]
+									}
+								]
+							},
+							{
+								"text": "Combinations",
+								"children": [
+									{
+										"text": "Fracture",
+										"children": [
+											"From Erosion and Stike",
+											"Exploit a weak point as an attack; more awareness weak points."
+										]
+									},
+									{
+										"text": "Impact",
+										"children": [
+											"From Strike and Surge",
+											"A deceptively powerful hit; greater control/coordination."
+										]
+									},
+									{
+										"text": "Pressue",
+										"children": [
+											"From Surge and Erosion",
+											"A variable (depends on intent) aura of a feeling of helplessness and imminent danger."
+										]
+									}
+								]
+							},
+							{
+								"text": "Truth: Force",
+								"children": [
+									"Control the inertia of things he's in contact with."
+								]
+							}
+						]
+					}
+				]
+			},
+			"danny": {
+				"text": "Danny",
+				"children": [
+					"Cheeky Bugger",
+					{
+						"text": "Cultivation",
+						"children": [
+							{
+								"text": "Essences",
+								"children": [
+									{
+										"text": "Lute",
+										"children": [
+											"The ability to express how he feels."
+										]
+									},
+									{
+										"text": "Blue Jay",
+										"children": [
+											"Notices the how his pet blue jay interacts by watching and imitating people."
+										]
+									},
+									{
+										"text": "Breeze",
+										"children": [
+											"Feels the calming effects of a breeze while introspecting."
+										]
+									}
+								]
+							},
+							{
+								"text": "Abilities",
+								"children": [
+									{
+										"text": "Perform",
+										"children": [
+											"From Lute",
+											"Project an emotion to others, and has an increased memory of and receptiveness to other's emotions."
+										]
+									},
+									{
+										"text": "Mimicry",
+										"children": [
+											"From Blue Jay",
+											"Pick up on cues in people to fit into a social situation or read an opponent's style."
+										]
+									},
+									{
+										"text": "Serenity",
+										"children": [
+											"From Breeze",
+											"View his emotions objectively to avoid external influences."
+										]
+									}
+								]
+							},
+							{
+								"text": "Combinations",
+								"children": [
+									{
+										"text": "Placate",
+										"children": [
+											"From Serenity and Mimicry",
+											"Targeted aura to calm angry people."
+										]
+									},
+									{
+										"text": "Persuade",
+										"children": [
+											"From Mimicry and Perform",
+											"Targeted aura to make people more amenable to Danny's suggestions."
+										]
+									},
+									{
+										"text": "Endear",
+										"children": [
+											"From Perform and Serenity",
+											"Targeted aura to make people think more highly of Danny."
+										]
+									}
+								]
+							},
+							{
+								"text": "Truth: Charisma",
+								"children": [
+									"Able to amplify or suppress existing emotions."
+								]
+							}
+						]
+					}
+				]
+			},
+			"ari": {
+				"text": "Ari",
+				"children": [
+					"Badass priate chick",
+					{
+						"text": "Cultivation",
+						"children": [
+							{
+								"text": "Essences",
+								"children": [
+									{
+										"text": "Wheel",
+										"children": [
+											"placeholder"
+										]
+									},
+									{
+										"text": "Cutlass",
+										"children": [
+											"placeholder"
+										]
+									},
+									{
+										"text": "Daylily",
+										"children": [
+											"placeholder"
+										]
+									}
+								]
+							},
+							{
+								"text": "Abilities",
+								"children": [
+									{
+										"text": "Steer",
+										"children": [
+											"From Wheel",
+											"placeholder"
+										]
+									},
+									{
+										"text": "Slash",
+										"children": [
+											"From Cutlass",
+											"placeholder"
+										]
+									},
+									{
+										"text": "Nurture",
+										"children": [
+											"From Daylily",
+											"placeholder"
+										]
+									}
+								]
+							}
+						]
+					}
+				]
+			},
+			"devon": {
+				"text": "Devon",
+				"children": [
+					"Nerdy sword dude",
+					{
+						"text": "Cultivation",
+						"children": [
+							{
+								"text": "Essences",
+								"children": [
+									{
+										"text": "Sword",
+										"children": [
+											"placeholder"
+										]
+									},
+									{
+										"text": "Candle",
+										"children": [
+											"placeholder"
+										]
+									},
+									{
+										"text": "Bonfire",
+										"children": [
+											"placegolder"
+										]
+									}
+								]
+							},
+							{
+								"text": "Abilities",
+								"children": [
+									{
+										"text": "Spark",
+										"children": [
+											"From Candle",
+											"placeholder"
+										]
+									}
+								]
+							}
+						]
+					}
+				]
+			},
+			"kurtus": {
+				"text": "Kurtus",
+				"children": [
+					"Cajun/Austrailian",
+					{
+						"text": "Cultivaion",
+						"children": [
+							{
+								"text": "Essences",
+								"children": [
+									{
+										"text": "Venom",
+										"children": [
+											"placeholder"
+										]
+									},
+									{
+										"text": "Web",
+										"children": [
+											"placeholder"
+										]
+									}
+								]
+							},
+							{
+								"text": "Abilities",
+								"children": [
+									{
+										"text": "Antivenom",
+										"children": [
+											"From Venom",
+											"All poisons and venoms get him drunk, rather than hurt"
+										]
+									},
+									{
+										"text": "Tension",
+										"children": [
+											"From Web",
+											"Can walk on water or mud without sinking"
+										]
+									}
+								]
+							}
+						]
+					}
+				]
+			}
+		}
+	},
+	"side-characters": {
+		"title": "Side Characters",
+		"sections": {
+			"northrend": {
+				"text": "Northrend",
+				"children": [
+					{
+						"text": "Bruno Riverfrost",
+						"children": [
+							"Alric and Danny's childhood bully."
+						]
+					},
+					{
+						"text": "Ms. Joyfield",
+						"children": [
+							"The teacher at the school Alric and Danny go to."
+						]
+					},
+					{
+						"text": "Morcar",
+						"children": [
+							"A bard employed at the Squeaky Hinge, he takes Danny as an aprentice to get out of doing work."
+						]
+					}
+				]
+			},
+			"alrics-family": {
+				"text": "Alric's Family",
+				"children": [
+					{
+						"text": "Fergal Ironfroge",
+						"children": [
+							"The son of a prominent smith and knight as well as a smith and knight himself, he spends most of his time either in the forge or training himself and his household."
+						]
+					},
+					{
+						"text": "Erin Ironforge",
+						"children": [
+							"Alric's over-protective older sister."
+						]
+					},
+					{
+						"text": "Tabot",
+						"children": [
+							"A former soldier who served under and befriended Fergal Ironforge. His cultivation had stagnated until he entered the Ironforge family's service, where he was able to advance."
+						]
+					}
+				]
+			},
+			"dannys-family": {
+				"text": "Danny's Family",
+				"children": [
+					{
+						"text": "Danny's Mom",
+						"children": [
+							"Danny's Mom. She works as a barmaid at the Squeaky Hinge."
+						]
+					},
+					{
+						"text": "Joveta Broom",
+						"children": [
+							"Danny's younger sister."
+						]
+					},
+					{
+						"text": "David Hearth",
+						"children": [
+							"One of Danny's older brothers. He is a guard for the Riverfrost family."
+						]
+					},
+					{
+						"text": "Josh Alley",
+						"children": [
+							"One of Danny's older brothers. He is an enforcer for the icicle sindycate"
+						]
+					},
+					{
+						"text": "Randyl Bellow",
+						"children": [
+							"One of Danny's older brothers. He is enployed by the Ironforge Family as an apprentice blacksmith."
+						]
+					},
+					{
+						"text": "Ash",
+						"children": [
+							"Danny's pet bluejay."
+						]
+					}
+				]
+			}
+		}
+	},
+	"high-court": {
+		"title": "The High Court",
+		"sections": {
+			"time": {
+				"text": "Lord Time",
+				"children": [
+					"desc"
+				]
+			},
+			"space": {
+				"text": "Lord Space",
+				"children": [
+					"desc"
+				]
+			},
+			"growth": {
+				"text": "Lord Growth",
+				"children": [
+					"A really big tree"
+				]
+			},
+			"fate": {
+				"text": "Lady Fate",
+				"children": [
+					"desc"
+				]
+			},
+			"mystery": {
+				"text": "Lady Mystery",
+				"children": [
+					"desc"
+				]
+			},
+			"fisher": {
+				"text": "Lord Fisher",
+				"children": [
+					"desc"
+				]
+			},
+			"theft": {
+				"text": "Lord Theft",
+				"children": [
+					"While he is called Lord Theft because of his passtimes, he would more acurately be called Lord Desire. He persues what he wants with determination and with only slight regard for others.",
+					{
+						"text": "Relationships",
+						"children": [
+							{
+								"text": "Lady Poison",
+								"children": [
+									"He became infatuated with Lady Poison as a young man and worked his way all the way up to the high court to be with her. He was turned down repeatedly - with her citing that he would physically suffer from being with her for too long. While this tempered his infatuation, it drove him to advance in power so that he could be with her."
+								]
+							}
+						]
+					}
+				]
+			},
+			"poison": {
+				"text": "Lady Poison",
+				"children": [
+					"desc",
+					{
+						"text": "Relationships",
+						"children": [
+							{
+								"text": "Lord Theft",
+								"children": [
+									"Originally she was very cold to others, even if she liked them, because of the effects of her abilities. Because of this she initially rejected Lord Theft's advances. However, the lengths he went to be with her won her over and once he became a Lord (and strong enough to not die from being with her for extended periods) she accepted him."
+								]
+							}
+						]
+					}
+				]
+			},
+			"fury": {
+				"text": "Lord Fury",
+				"children": [
+					"God of righteous anger and justice."
+				]
+			},
+			"empathy": {
+				"text": "Lady Empathy",
+				"children": [
+					"A dog"
+				]
+			},
+			"apathy": {
+				"text": "Lord Apathy",
+				"children": [
+					"A cat, he behaves like a normal cat, but is centuries old, so people are pretty sure he's a Lord."
+				]
+			},
+			"weaving": {
+				"text": "Lady Weaving",
+				"children": [
+					"A spider"
+				]
+			},
+			"sea": {
+				"text": "Lady Sea",
+				"children": [
+					"Nature Goddess"
+				]
+			},
+			"tranquil": {
+				"text": "Lord Tranquil",
+				"children": [
+					"desc"
+				]
+			},
+			"innovation": {
+				"text": "Lady Innovation",
+				"children": [
+					"desc"
+				]
+			},
+			"memory": {
+				"text": "Lady Memory",
+				"children": [
+					"God of the Rememberance of the Dead"
+				]
+			},
+			"valor": {
+				"text": "Lord Valor",
+				"children": [
+					"desc"
+				]
+			},
+			"strategy": {
+				"text": "Lady Strategy",
+				"children": [
+					"desc"
+				]
+			},
+			"discovery": {
+				"text": "Lord Discovery",
+				"children": [
+					"desc"
+				]
+			},
+			"leadership": {
+				"text": "Lord Leadership",
+				"children": [
+					"desc"
+				]
+			},
+			"pompous": {
+				"text": "Lord Pompous",
+				"children": [
+					"desc"
+				]
+			},
+			"mend": {
+				"text": "Lord Mend",
+				"children": [
+					"desc"
+				]
+			}
+		}
+	},
+	"organizations": {
+		"title": "Organizations",
+		"sections": {
+			"high_court": {
+				"text": "The High Court",
+				"children": [
+					"The Gods and Goddesses of the continent."
+				]
+			},
+			"ironforge": {
+				"text": "The Ironforge Family",
+				"children": [
+					"Knights and Smiths of Northrend"
+				]
+			},
+			"riverfrost": {
+				"text": "The Riverfrost Family",
+				"children": [
+					"Barons of Northrend"
+				]
+			},
+			"icicle_syndicate": {
+				"text": "The Icicle Syndicate",
+				"children": [
+					"Criminals of Northren"
+				]
+			},
+			"northern_priates": {
+				"text": "The Northren Priates",
+				"children": [
+					"Pirates that operate along the northern and gravel coasts"
+				]
+			},
+			"consumus_syndicate": {
+				"text": "The Consumus Syndicate",
+				"children": [
+					"The most powerful criminals on the continent"
+				]
+			},
+			"cys_cult": {
+				"text": "The Followers of Cys",
+				"children": [
+					"Crazies inspired by Alric and Danny"
+				]
+			}
+		}
+	},
+	"races": {
+		"title": "Races",
+		"sections": {
+			"northern": {
+				"text": "Northerners",
+				"children": [
+					"The Gravel Coast and Grendale"
+				]
+			},
+			"produs": {
+				"text": "Prodan",
+				"children": [
+					"Willowy with vivid green eyes"
+				]
+			},
+			"lix": {
+				"text": "The Lix",
+				"children": [
+					"A little known race of reptilian people who stand about a foot tall and practice nature based magic.",
+					"Their power is based on the strength of the forest and the groed tree was an attempt at spreading their influence, but the extensive logging that resulted from it has only decreased their power and relegated them to the deepest parts of the forest."
+				]
+			},
+			"oappead": {
+				"text": "Oappead",
+				"children": [
+					"Octopus people, use chromataphores to convey status and affiliation"
+				]
+			},
+			"silvaar": {
+				"text": "Silvaaran",
+				"children": [
+					"Shiny Hair"
+				]
+			},
+			"scorchlands": {
+				"text": "Scorchlanders",
+				"children": [
+					"A relatively new group decesended from a merchant company that was able to successfully establish traderoutes across the scorchlands between Silvaar and the Arena.",
+					"The groups morals consist of adhereing to contracts and family, as well as sharing water because of the beliefs and experiences of their founder.",
+					"The locations of wells are publicly known among the scorchlanders and each well is guarded by a Water Keep. Water Keepers are highly revered and largely solitary. The position is passed on a master/apprentice basis."
+				]
+			},
+			"kinnabari": {
+				"text": "The Kinnabari",
+				"children": [
+					"A society of people who trace their origin to the original settlers of Cyruth. They are the only group to retain magic, although it has degraded to to contact based ice magic for all except thier Grand Elder.",
+					"They are led by one of the original settlers, who is a powerful ice mage. The Kinnabari view him in the same light as a kindly village elder, but Cyruth as a whole view him as an evil on par with the Great Catastropy.",
+					"When a child comes of age, they go south into Cyruth to earn as much gold as they can as a status symbol, usually working as assassins. They use claws of frozen mercury as weapons, giving credence to their identiy as demons among Cyruth as a whole",
+					"The color red is highly favored amoung them, leading to their love of gold and cinnabar, the latter of which they mine. It also led to people with albinism being favored, resulting in a high number among their population."
+				]
+			}
+		}
+	},
+	"creatures": {
+		"title": "Creatures",
+		"sections": {
+			"leaping-tortise": {
+				"text": "Leaping Tortise",
+				"children": [
+					"Mossy shelled tortises with very long and powerful hind legs that allow them to make lightning fast lunges at their prey, but make walking slow and akward."
+				]
+			},
+			"horses": {
+				"text": "Horses",
+				"children": [
+					{
+						"text": "Glidyer",
+						"children": [
+							"Horses bred for speed and a high affinity for air, making them favored amoung scouts and messengers."
+						]
+					},
+					{
+						"text": "Blazyer",
+						"children": [
+							"Horses bred for agression and a high affinity for fire, making them favored amoung the high ranking and rich."
+						]
+					},
+					{
+						"text": "Rivyer",
+						"children": [
+							"Horses bred for manuverability and a high affinity for water, making them favored amoung calvary units."
+						]
+					},
+					{
+						"text": "Boulyer",
+						"children": [
+							"Horses bred for stength and a high affinity for earth, making them favored amoung farmers and merchants."
+						]
+					}
+				]
+			}
+		}
+	},
+	"items": {
+		"title": "Items",
+		"sections": {
+			"metals": {
+				"text": "Magical Metals",
+				"children": [
+					{
+						"text": "Air Aligned Iron",
+						"children": [
+							"Lightweight, but somewhat brittle."
+						]
+					},
+					{
+						"text": "Fire Aligned Iron",
+						"children": [
+							"Easily sharpended and purified to a high degree."
+						]
+					},
+					{
+						"text": "Water Aligned Iron",
+						"children": [
+							"More fexible at the cost of overall strength"
+						]
+					},
+					{
+						"text": "Earth Aligned Iron",
+						"children": [
+							"Extremely heavy, but very strong."
+						]
+					}
+				]
+			},
+			"redclove": {
+				"text": "Redclove",
+				"children": [
+					"A natrually fire aligned herb, it is notable for it's spicy flavor."
+				]
+			},
+			"groed": {
+				"text": "Groed Wood",
+				"children": [
+					"A green colored, low quality wood that is abundant due to how quickly the trees grow."
+				]
+			}
+		}
+	},
+	"regions": {
+		"title": "Regions",
+		"sections": {
+			"grendale": {
+				"text": "Grendale",
+				"children": [
+					"A massive forest in the northern part of Cyruth",
+					{
+						"text": "Locations",
+						"children": [
+							{
+								"text": "Northrend",
+								"children": [
+									"The starting city",
+									{
+										"text": "Noteable Places",
+										"children": [
+											{
+												"text": "The Squeaky Hinge",
+												"children": [
+													"A bar in Northrend owned by Mr. Copper. Danny's mom works there to pay for her husband's tab. Danny meets his first master, Morcar, here and learns to play the lute."
+												]
+											},
+											{
+												"text": "Ironforge Mannor",
+												"children": [
+													"The family home of the ironforge family."
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					}
+				]
+			},
+			"tribbal-highlands": {
+				"text": "Tribbal Highlands",
+				"children": [
+					{
+						"text": "Locations",
+						"children": [
+							{
+								"text": "Baymoth",
+								"children": [
+									"The seat of power of the regional duke."
+								]
+							},
+							{
+								"text": "Lake Tribbal",
+								"children": [
+									"A large lake"
+								]
+							}
+						]
+					}
+				]
+			},
+			"gravel-cost": {
+				"text": "The Gravel Coast",
+				"children": [
+					"The eastern coast of Cyruth"
+				]
+			},
+			"silland": {
+				"text": "Silland Swamp",
+				"children": [
+					"Spider infested swamp in south-eastern Cyruth."
+				]
+			},
+			"growth-plains": {
+				"text": "Plains of Growth",
+				"children": [
+					"The fertile plains surrounding Lord Growth."
+				]
+			},
+			"faiwer-sea": {
+				"text": "The Faiwer Sea",
+				"children": [
+					"The southern sea of Cyruth"
+				]
+			},
+			"silvaaran-mountains": {
+				"text": "The Silvaaran Mountains",
+				"children": [
+					"The mountains streching through the middle of Cyruth",
+					{
+						"text": "Locations",
+						"children": [
+							{
+								"text": "Silvaar",
+								"children": [
+									"A city carved into the interior of a mountain."
+								]
+							}
+						]
+					}
+				]
+			},
+			"scorchlands": {
+				"text": "The Scorchedlands",
+				"children": [
+					"A massive desert consisting of sun baked clay in the south west of Cyruth.",
+					{
+						"text": "Locations",
+						"children": [
+							{
+								"text": "The Arena",
+								"children": [
+									"Massive crater formed from an unknown event in the distant past. The crater was used as an arena for many high level fights in the past, resulting in many smaller craters inside of it. In modern times, the main crater has become a highly martial city with the sub-craters serving as areans for duels and fights."
+								]
+							}
+						]
+					}
+				]
+			},
+			"icide-tundra": {
+				"text": "Icide Tundra",
+				"children": [
+					"The northwestern tip of Cyruth. The region faces year-round blizzards making it extremely difficult to navigate by land. The sea is even more treacherous due to the storms and numerous icebergs in the area.",
+					{
+						"text": "Locations",
+						"children": [
+							{
+								"text": "The Isle of the Kinnabari",
+								"children": [
+									"A large island off the very northern tip of the Icide Tundra. The only way to reach it is to wait for winter to freeze the ocean between it and the mainland solid.",
+									"The island is the home of the Kinnabri people."
+								]
+							}
+						]
+					}
+				]
+			}
+		}
+	},
+	"maps": {
+		"title": "Maps",
+		"sections": {
+			
+		}
+	}
+}

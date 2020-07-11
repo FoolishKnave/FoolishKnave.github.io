@@ -1,0 +1,23 @@
+{
+  "leapingtortise": {
+    "name": "Leaping Tortise",
+    "desc": "Mossy shelled tortises with very long and powerful hind legs that allow them to make lightning fast lunges at their prey, but make walking slow and akward.",
+    "loc": "Deep Grendale Forrest"
+  },
+  "airhorse": {
+    "name": "Glidyer Horse",
+    "desc": "Horses bred for speed and a high affinity for air, making them favored amoung scouts and messengers."
+  },
+  "firehorse": {
+    "name": "Blazyer Horse",
+    "desc": "Horses bred for agression and a high affinity for fire, making them favored amoung the high ranking and rich."
+  },
+  "waterhorse": {
+    "name": "Rivyer Horse",
+    "desc": "Horses bred for manuverability and a high affinity for water, making them favored amoung calvary units."
+  },
+  "earthhorse": {
+    "name": "Boulyer Horse",
+    "desc": "Horses bred for stength and a high affinity for earth, making them favored amoung farmers and merchants."
+  }
+}

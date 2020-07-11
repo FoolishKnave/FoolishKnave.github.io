@@ -1,0 +1,104 @@
+:root {
+	--header-height: 4em;
+	--header-font-size: 3em;
+	
+	--nav-height: 3em;
+	--nav-font-size: 1em;
+	
+	--aside-width: 10vw;
+	--aside-element-height: 2em;
+	--aside-font-size: 1em;
+	
+	--footer-height: 2em;
+	--footer-font-size: 1em;
+	
+	--spacing-1: 1em;
+	--spacing-2: 2em;
+}
+
+body {
+	min-height: 100vh;
+	margin: 0;
+	
+	display: grid;
+	grid-template-columns: var(--aside-width) 1fr;
+	grid-template-rows: var(--header-height) var(--nav-height) 1fr var(--footer-height); 
+	grid-template-areas: "h h" "n n" "a m" "a f";
+}
+
+header {
+	grid-area: h;
+	
+	text-align: center;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+
+header h1 {
+	margin: 0;
+	font-size: var(--header-font-size);
+}
+
+nav {
+	grid-area: n;
+}
+
+aside {
+	grid-area: a;
+}
+
+nav ul,
+aside ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+nav li {
+	display: inline-block;
+}
+
+aside li {
+	display: block;
+}
+
+nav a {
+	font-size: var(--nav-font-size);
+	height: var(--nav-height);
+	padding: 0 calc((var(--nav-height) - var(--nav-font-size)) / 3);
+	
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+
+aside a {
+	font-size: var(--aside-font-size);
+	min-height: var(--aside-element-height);
+	padding: 0 calc((var(--aside-element-height) - var(--aside-font-size)) / 2);
+	
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+
+main {
+	grid-area: m;
+	padding-right: var(--spacing-2); 
+}
+
+.node {
+	padding-left: var(--spacing-1);
+}
+
+footer {
+	grid-area: f;
+	
+	text-align: right;
+	padding-right: var(--spacing-2); 
+	
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}

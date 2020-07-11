@@ -1,0 +1,10 @@
+{
+  "cyruth": {
+    "name": "Cyruth",
+    "path": "./resources/maps/cyruth.jpg"
+  },
+  "grendale": {
+    "name": "Grendale Forest",
+    "path": "./resources/maps/grendale.jpg"
+  }
+}

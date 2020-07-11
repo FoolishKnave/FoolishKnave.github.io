@@ -1,0 +1,30 @@
+{
+  "greenlute": {
+    "name": "Danny's Green Lute",
+    "desc": "The first lute Danny bought for himself, made from groed wood, it sounds passable at best."
+  },
+  "airiron": {
+    "name": "Air Aligned Metals",
+    "desc": "Extremely lightweight, but somewhat fragile."
+  },
+  "fireiron": {
+    "name": "Fire Aligned Metals",
+    "desc": "Easily sharpended and purified to a high degree."
+  },
+  "wateriron": {
+    "name": "Water Aligned Metals",
+    "desc": "Strong, but flexes back after being bent, rather than deforming."
+  },
+  "earthiron": {
+    "name": "Earth Aligned Metals",
+    "desc": "Extremely heavy, but very strong."
+  },
+  "redclove": {
+    "name": "Redclove",
+    "desc": "A natrually fire aligned herb, it is notable for it's spicy flavor."
+  },
+  "groed": {
+    "name": "Groed Wood",
+    "desc": "A green colored, low quality wood that is abundant due to how quickly the trees grow."
+  }
+}

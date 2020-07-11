@@ -1,0 +1,22 @@
+{
+  "squeaky_hinge": {
+    "name": "The Squeaky Hinge",
+    "desc": "A bar in Northrend owned by Mr. Copper. Danny's mom works there to pay for her husband's tab. Danny meets his first master, [link:side_characters,morcar], here and learns to play the lute."
+  },
+  "clearstream": {
+    "name": "Clearstream",
+    "desc": "A military outpost in Grendale where Alric's sister is stationed."
+  },
+  "respite": {
+    "name": "Respite",
+    "desc": "A town just outside of Northrend"
+  },
+  "thirven": {
+    "name": "Thirven",
+    "desc": "Originally a logging camp that was seized by bandits in an attempt to gain a randsome. The merchants didn't bother paying the randsome and so the bandits settled the town and institued a constitutional monarchy"
+  },
+  "whole": {
+    "name": "Whole",
+    "desc": "A run down whaling town"
+  }
+}

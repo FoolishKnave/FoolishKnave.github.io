@@ -1,0 +1,138 @@
+{
+  "calendar": {
+    "name": "The Calendar",
+    "events": [
+      {
+        "name": "Spring",
+        "desc": "Begins on the spring equinox, divided into early-, mid-, and late-, which are further divided into five weeks of six days"
+      },
+      {
+        "name": "Summer",
+        "desc": "Begins on the summer solstice"
+      },
+      {
+        "name": "Autumn",
+        "desc": "Begins on the autumnal equinox"
+      },
+      {
+        "name": "Winter",
+        "desc": "Begins on the winter solstice"
+      }
+    ]
+  },
+  "prolog": {
+    "name": "Prolog",
+    "events": [
+      {
+        "name": "The Story Begins",
+        "desc": "Danny and Alric lose the fight with [link:side_characters,bruno_riverfrost] and his cronies.",
+        "time": "A year before the journey begins."
+      }
+    ]
+  },
+  "forest": {
+    "name": "The Forest",
+    "desc": "",
+    "events": [
+      {
+        "name": "Nameday",
+        "desc": "Danny and Alric set off on an adventure",
+        "time": "Spring 1: Equinox"
+      },
+      {
+        "name": "[link:locations,respite]",
+        "desc": "Alric and Danny unknowningly aid and then kill a heritic",
+        "time": "Spring 1, Week 1, Day 1"
+      },
+      {
+        "name": "Meeting [link:side_characters,ash]",
+        "desc": "Danny begins hearing a something almost like a lute in the distance as they travel and notices small amounts of food are going missing. After placing ash around some food that is left out they discover bird tracks in it the next morning. Danny manages to coax the bird into his hand and names it Ash.",
+        "time": {
+          "start": "Spring 1, Week 1, Day 1",
+          "end": "Spring 1, Week 1, Day 4"
+        }
+      },
+      {
+        "name": "[link:locations,thirven]",
+        "desc": "Alric and Danny meet some reformed bandits and have their expectations challenged again.",
+        "time": {
+          "start": "Spring 1, Week 1, Day 5",
+          "end": "Spring 1, Week 2, Day 2"
+        }
+      },
+      {
+        "name": "[link:locations,whole]",
+        "desc": "They stay here for a while, it is where [link:high_court,time] inspires Alric. They leave after a confrontation with [link:side_characters,erin_ironforge].",
+        "time": {
+          "start": "Spring 1, Week 3, Day 2",
+          "end": "Spring 1, Week 11, Day 4"
+        }
+      },
+      {
+        "name": "Meeting the Champion",
+        "desc": "The bros meet the [link:high_court,storms] and do some training",
+        "time": {
+          "start": "TBD",
+          "end": "TBD"
+        }
+      },
+      {
+        "name": "Infiltrating the sect",
+        "desc": "The bros attempt the sneak into a sect to learn about the heritic's deal",
+        "time": {
+          "start": "TBD",
+          "end": "TBD"
+        }
+      },
+      {
+        "name": "Party City",
+        "desc": "",
+        "time": {
+          "start": "TBD",
+          "end": "TBD"
+        }
+      },
+      {
+        "name": "Traveling the Tribbals",
+        "desc": "",
+        "time": {
+          "start": "TBD",
+          "end": "TBD"
+        }
+      },
+      {
+        "name": "To [link:regions,baymoth]",
+        "desc": "",
+        "time": {
+          "start": "TBD",
+          "end": "TBD"
+        }
+      },
+      {
+        "name": "Helping Grandpa",
+        "desc": "",
+        "time": {
+          "start": "TBD",
+          "end": "TBD"
+        }
+      },
+      {
+        "name": "Investigating the Tournament",
+        "desc": "",
+        "time": {
+          "start": "TBD",
+          "end": "TBD"
+        }
+      },
+      {
+        "name": "Resolution",
+        "desc": "",
+        "time": {
+          "start": "TBD",
+          "end": "TBD"
+        }
+      }
+    ]
+  }
+
+}
