@@ -820,13 +820,15 @@
 			"oappead": {
 				"text": "Oappead",
 				"children": [
-					"Octopus people, use chromataphores to convey status and affiliation"
+					"Octopus people from south of the Faiwer Sea.", 
+					"They live in a rigid caste society and display their status using the chromatophores on their bodies to make what look like tribal tattoes.",
+					"Both men and women of the species have several tentacles around - and parially obscuring - their beak like mouths"
 				]
 			},
 			"silvaar": {
 				"text": "Silvaaran",
 				"children": [
-					"Shiny Hair"
+					"The people of Silvaar are known for being extremely pale with grey or silver hair. They are renouned craftsmen."
 				]
 			},
 			"scorchlands": {
