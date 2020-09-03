@@ -1,0 +1,159 @@
+{
+    "title": "The High Court",
+    "sections": {
+        "time": {
+            "text": "Lord Time",
+            "children": [
+                "desc"
+            ]
+        },
+        "space": {
+            "text": "Lord Space",
+            "children": [
+                "desc"
+            ]
+        },
+        "growth": {
+            "text": "Lord Growth",
+            "children": [
+                "A really big tree"
+            ]
+        },
+        "fate": {
+            "text": "Lady Fate",
+            "children": [
+                "desc"
+            ]
+        },
+        "mystery": {
+            "text": "Lady Mystery",
+            "children": [
+                "desc"
+            ]
+        },
+        "fisher": {
+            "text": "Lord Fisher",
+            "children": [
+                "desc"
+            ]
+        },
+        "theft": {
+            "text": "Lord Theft",
+            "children": [
+                "While he is called Lord Theft because of his passtimes, he would more acurately be called Lord Desire. He persues what he wants with determination and with only slight regard for others.",
+                {
+                    "text": "Relationships",
+                    "children": [
+                        {
+                            "text": "Lady Poison",
+                            "children": [
+                                "He became infatuated with Lady Poison as a young man and worked his way all the way up to the high court to be with her. He was turned down repeatedly - with her citing that he would physically suffer from being with her for too long. While this tempered his infatuation, it drove him to advance in power so that he could be with her."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "poison": {
+            "text": "Lady Poison",
+            "children": [
+                "desc",
+                {
+                    "text": "Relationships",
+                    "children": [
+                        {
+                            "text": "Lord Theft",
+                            "children": [
+                                "Originally she was very cold to others, even if she liked them, because of the effects of her abilities. Because of this she initially rejected Lord Theft's advances. However, the lengths he went to be with her won her over and once he became a Lord (and strong enough to not die from being with her for extended periods) she accepted him."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "fury": {
+            "text": "Lord Fury",
+            "children": [
+                "God of righteous anger and justice."
+            ]
+        },
+        "empathy": {
+            "text": "Lady Empathy",
+            "children": [
+                "A dog"
+            ]
+        },
+        "apathy": {
+            "text": "Lord Apathy",
+            "children": [
+                "A cat, he behaves like a normal cat, but is centuries old, so people are pretty sure he's a Lord."
+            ]
+        },
+        "weaving": {
+            "text": "Lady Weaving",
+            "children": [
+                "A spider"
+            ]
+        },
+        "sea": {
+            "text": "Lady Sea",
+            "children": [
+                "Nature Goddess"
+            ]
+        },
+        "tranquil": {
+            "text": "Lord Tranquil",
+            "children": [
+                "desc"
+            ]
+        },
+        "innovation": {
+            "text": "Lady Innovation",
+            "children": [
+                "desc"
+            ]
+        },
+        "memory": {
+            "text": "Lady Memory",
+            "children": [
+                "God of the Rememberance of the Dead"
+            ]
+        },
+        "valor": {
+            "text": "Lord Valor",
+            "children": [
+                "desc"
+            ]
+        },
+        "strategy": {
+            "text": "Lady Strategy",
+            "children": [
+                "desc"
+            ]
+        },
+        "discovery": {
+            "text": "Lord Discovery",
+            "children": [
+                "desc"
+            ]
+        },
+        "leadership": {
+            "text": "Lord Leadership",
+            "children": [
+                "desc"
+            ]
+        },
+        "pompous": {
+            "text": "Lord Pompous",
+            "children": [
+                "desc"
+            ]
+        },
+        "mend": {
+            "text": "Lord Mend",
+            "children": [
+                "desc"
+            ]
+        }
+    }
+}

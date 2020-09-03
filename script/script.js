@@ -5,27 +5,29 @@ function initContent() {
 	var sections = document.getElementById('sections');
     var content = document.getElementById('content');
 
-    fetch("./resources/data.json")
-        .then(function (response) {
-            return response.json();
-        })
+    // Get the url params.
+    var thisTabId = urlParams.get('tab') ?? 'home';
+    var thisSectionId = urlParams.get('section');
+
+    fetch('./resources/tabs.json')
+        .then(res => res.json())
         .then(function (json) {
-            // Get the url params.
-            var thisTabId = urlParams.get('tab') ?? Object.keys(json)[0];
-            var thisSectionId = urlParams.get('section') ?? Object.keys(json[thisTabId].sections)[0];
-            
             // Populate the nav tabs.
             for (var tabId in json) {
-                addNavLink(tabs, `?tab=${tabId}`, json[tabId].title);
+                addNavLink(tabs, `?tab=${json[tabId]}`, tabId);
+            }
+        });
+
+    fetch(`./resources/data/${thisTabId}.json`)
+        .then(res => res.json())
+        .then(function (json) {
+            thisSectionId = thisSectionId ?? Object.keys(json.sections)[0];
+            // Poplulate the section tabs
+            for (var sectionId in json.sections) {
+                addNavLink(sections, `?tab=${thisTabId}&section=${sectionId}`, json.sections[sectionId].text);
             }
 
-            // Populate the sections tabs.
-            for (var sectionId in json[thisTabId].sections) {
-                addNavLink(sections, `?tab=${thisTabId}&section=${sectionId}`, json[thisTabId].sections[sectionId].text);
-            }
-
-            // Populate the content recursively.
-            addContentNode(content, json[thisTabId].sections[thisSectionId], 0);
+            addContentNode(content, json.sections[thisSectionId], 0);
         });
 }
 
@@ -33,11 +35,10 @@ function initContent() {
  * 
  * @param {Node} parent
  * @param {JSON} json
- * @param {number} depth
+ * @param {Number} depth
  */
 function addContentNode(parent, json, depth) {
     // Create the node
-    
     if (!json.text) { // The node is terminal
         var text = document.createElement('p');
         text.setAttribute('class', 'node');
@@ -61,8 +62,8 @@ function addContentNode(parent, json, depth) {
 /**
  * 
  * @param {Node} parent
- * @param {string} link
- * @param {string} title
+ * @param {String} link
+ * @param {String} title
  */
 function addNavLink(parent, link, title) {
     var li = document.createElement('li');

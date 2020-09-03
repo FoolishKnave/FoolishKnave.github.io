@@ -1,0 +1,342 @@
+{
+    "title": "Main Characters",
+    "sections": {
+        "alric": {
+            "text": "Alric",
+            "children": [
+                "Jacked AF",
+                {
+                    "text": "Cultivation",
+                    "children": [
+                        {
+                            "text": "Essences",
+                            "children": [
+                                {
+                                    "text": "Tides",
+                                    "children": [
+                                        "The destructive inevitability of the tides against a ship."
+                                    ]
+                                },
+                                {
+                                    "text": "Hammer",
+                                    "children": [
+                                        "The duality of creation and destruction in smiting."
+                                    ]
+                                },
+                                {
+                                    "text": "Flood",
+                                    "children": [
+                                        "The sudden loss of control"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "text": "Abilities",
+                            "children": [
+                                {
+                                    "text": "Erosion",
+                                    "children": [
+                                        "From Tides",
+                                        "Focuses on a single target. The target feels a pressure of helplessness."
+                                    ]
+                                },
+                                {
+                                    "text": "Strike",
+                                    "children": [
+                                        "From Hammer",
+                                        "A powerful deforming hit."
+                                    ]
+                                },
+                                {
+                                    "text": "Surge",
+                                    "children": [
+                                        "From Flood",
+                                        "A sudden, powerful, disruptive charge."
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "text": "Combinations",
+                            "children": [
+                                {
+                                    "text": "Fracture",
+                                    "children": [
+                                        "From Erosion and Stike",
+                                        "Exploit a weak point as an attack; more awareness weak points."
+                                    ]
+                                },
+                                {
+                                    "text": "Impact",
+                                    "children": [
+                                        "From Strike and Surge",
+                                        "A deceptively powerful hit; greater control/coordination."
+                                    ]
+                                },
+                                {
+                                    "text": "Pressue",
+                                    "children": [
+                                        "From Surge and Erosion",
+                                        "A variable (depends on intent) aura of a feeling of helplessness and imminent danger."
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "text": "Truth: Force",
+                            "children": [
+                                "Control the inertia of things he's in contact with."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "danny": {
+            "text": "Danny",
+            "children": [
+                "Cheeky Bugger",
+                {
+                    "text": "Cultivation",
+                    "children": [
+                        {
+                            "text": "Essences",
+                            "children": [
+                                {
+                                    "text": "Lute",
+                                    "children": [
+                                        "The ability to express how he feels."
+                                    ]
+                                },
+                                {
+                                    "text": "Blue Jay",
+                                    "children": [
+                                        "Notices the how his pet blue jay interacts by watching and imitating people."
+                                    ]
+                                },
+                                {
+                                    "text": "Breeze",
+                                    "children": [
+                                        "Feels the calming effects of a breeze while introspecting."
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "text": "Abilities",
+                            "children": [
+                                {
+                                    "text": "Perform",
+                                    "children": [
+                                        "From Lute",
+                                        "Project an emotion to others, and has an increased memory of and receptiveness to other's emotions."
+                                    ]
+                                },
+                                {
+                                    "text": "Mimicry",
+                                    "children": [
+                                        "From Blue Jay",
+                                        "Pick up on cues in people to fit into a social situation or read an opponent's style."
+                                    ]
+                                },
+                                {
+                                    "text": "Serenity",
+                                    "children": [
+                                        "From Breeze",
+                                        "View his emotions objectively to avoid external influences."
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "text": "Combinations",
+                            "children": [
+                                {
+                                    "text": "Placate",
+                                    "children": [
+                                        "From Serenity and Mimicry",
+                                        "Targeted aura to calm angry people."
+                                    ]
+                                },
+                                {
+                                    "text": "Persuade",
+                                    "children": [
+                                        "From Mimicry and Perform",
+                                        "Targeted aura to make people more amenable to Danny's suggestions."
+                                    ]
+                                },
+                                {
+                                    "text": "Endear",
+                                    "children": [
+                                        "From Perform and Serenity",
+                                        "Targeted aura to make people think more highly of Danny."
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "text": "Truth: Charisma",
+                            "children": [
+                                "Able to amplify or suppress existing emotions."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "ari": {
+            "text": "Ari",
+            "children": [
+                "Badass priate chick",
+                {
+                    "text": "Cultivation",
+                    "children": [
+                        {
+                            "text": "Essences",
+                            "children": [
+                                {
+                                    "text": "Wheel",
+                                    "children": [
+                                        "placeholder"
+                                    ]
+                                },
+                                {
+                                    "text": "Cutlass",
+                                    "children": [
+                                        "placeholder"
+                                    ]
+                                },
+                                {
+                                    "text": "Daylily",
+                                    "children": [
+                                        "placeholder"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "text": "Abilities",
+                            "children": [
+                                {
+                                    "text": "Steer",
+                                    "children": [
+                                        "From Wheel",
+                                        "placeholder"
+                                    ]
+                                },
+                                {
+                                    "text": "Slash",
+                                    "children": [
+                                        "From Cutlass",
+                                        "placeholder"
+                                    ]
+                                },
+                                {
+                                    "text": "Nurture",
+                                    "children": [
+                                        "From Daylily",
+                                        "placeholder"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "devon": {
+            "text": "Devon",
+            "children": [
+                "Nerdy sword dude",
+                {
+                    "text": "Cultivation",
+                    "children": [
+                        {
+                            "text": "Essences",
+                            "children": [
+                                {
+                                    "text": "Sword",
+                                    "children": [
+                                        "placeholder"
+                                    ]
+                                },
+                                {
+                                    "text": "Candle",
+                                    "children": [
+                                        "placeholder"
+                                    ]
+                                },
+                                {
+                                    "text": "Bonfire",
+                                    "children": [
+                                        "placegolder"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "text": "Abilities",
+                            "children": [
+                                {
+                                    "text": "Spark",
+                                    "children": [
+                                        "From Candle",
+                                        "placeholder"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "kurtus": {
+            "text": "Kurtus",
+            "children": [
+                "Cajun/Austrailian",
+                {
+                    "text": "Cultivaion",
+                    "children": [
+                        {
+                            "text": "Essences",
+                            "children": [
+                                {
+                                    "text": "Venom",
+                                    "children": [
+                                        "placeholder"
+                                    ]
+                                },
+                                {
+                                    "text": "Web",
+                                    "children": [
+                                        "placeholder"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "text": "Abilities",
+                            "children": [
+                                {
+                                    "text": "Antivenom",
+                                    "children": [
+                                        "From Venom",
+                                        "All poisons and venoms get him drunk, rather than hurt"
+                                    ]
+                                },
+                                {
+                                    "text": "Tension",
+                                    "children": [
+                                        "From Web",
+                                        "Can walk on water or mud without sinking"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

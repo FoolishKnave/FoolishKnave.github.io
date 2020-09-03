@@ -1,0 +1,29 @@
+{
+    "title": "Culture",
+    "sections": {
+        "history": {
+            "text": "History",
+            "children": [
+                "The history of the high court and Cyruth",
+                {
+                    "text": "Original Settlers",
+                    "children": [
+                        "Humanity originally came to Cyruth from a distant continent. There are only two surviving members from the group: Lord Time and the Grand Elder of the Kinnabari."
+                    ]
+                },
+                {
+                    "text": "Period of Chaos",
+                    "children": [
+                        "The original settlers founded many cities which began to fight among themselves. The inter-city conflicts and the untamed wilds of the continent forced the cultre to become extremly matrial; resulting in many forms of study, including magic, were lost."
+                    ]
+                },
+                {
+                    "text": "The Great Calamity",
+                    "children": [
+                        "A group consisting of The Lords Time, Space, Fate, Mystery, and Fisher, aided by Growth fight and kill 'The Great Calamity' a young dragon residing on a mountain in central Cyruth. After the dragon died, the High Court was founded at the peak of the mountain and Crossway at its base."
+                    ]
+                }
+            ]
+        }
+    }
+}

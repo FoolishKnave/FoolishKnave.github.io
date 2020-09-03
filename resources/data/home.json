@@ -1,0 +1,17 @@
+{
+    "title": "Home",
+    "sections": {
+        "about": {
+            "text": "About",
+            "children": [
+                "Danny is the son of a barkeep and drunk who just tried to stay out of the limelight. Alric the son of a knight, proud scion of a rising noble house. Alric wanted nothing more than to please his family and be an honest man. Danny wasn't quite sure what he wanted, but he knew it wasn't this. So when things go poorly for Alric, Danny senses an opportunity; together the sworn brothers embark on the path towards adventure. Hopefully the tumultuous Cyruth empire is prepared for their antics."
+            ]
+        },
+        "author": {
+            "text": "Author",
+            "children": [
+                "Some asshat"
+            ]
+        }
+    }
+}

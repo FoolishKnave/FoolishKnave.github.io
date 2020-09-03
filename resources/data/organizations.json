@@ -1,48 +1,47 @@
 {
-  "high_court": {
-    "name": "The High Court",
-    "desc": "The Gods and Goddesses of the continent.",
-    "leaders": [ "[link:organizations,seniverate]" ],
-    "locations": [ "Crossway" ]
-  },
-  "seniverate": {
-    "name": "The Seniverate",
-    "desc": "The six founding members of the High Court",
-    "members": [ "[link:high_court,time]", "[link:high_court,space]", "[link:high_court,growth]", "[link:high_court,fate]", "[link:high_court,mystery]", "[link:high_court,fisher]" ],
-    "locations": [ "Crossway" ]
-  },
-  "ironforge": {
-    "name": "The Ironforge Family",
-    "desc": "Knights and Smiths",
-    "leaders": [ "[link:side_characters,fergal_ironforge]" ],
-    "locations": [ "[link:regions,northrend]" ]
-  },
-  "riverfrost": {
-    "name": "The Riverfrost Family",
-    "desc": "Barons of Northrend",
-    "leaders": [ "Bruno's Dad", "Bruno" ],
-    "locations": [ "[link:regions,northrend]" ]
-  },
-  "icicle_syndicate": {
-    "name": "The Icicle Syndicate",
-    "desc": "Criminals of Northrend",
-    "locations": [ "[link:regions,northrend]" ]
-  },
-  "northern_pirates": {
-    "name": "The Northern Pirates",
-    "desc": "Pirates along the northern and gravel coasts",
-    "locations": [ "[link:regions,northrend]", "[link:regions,baymoth]", "[link:regions,gravel_coast]" ]
-  },
-  "consumus_syndicate": {
-    "name": "The Consumus Syndicate",
-    "desc": "Criminals of Everything",
-    "leaders": [ "[link:high_court,theft]", "[link:high_court,poison]" ],
-    "locations": [ "[link:regions,consumus]" ]
-  },
-  "cys_cult": {
-    "name": "The Followers of Cys",
-    "desc": "Crazies inspired by Alric and Danny",
-    "leaders": [ "Some crazy dudes" ],
-    "locations": [ "[link:regions,tribbals]" ]
-  }
+    "title": "Organizations",
+    "sections": {
+        "high_court": {
+            "text": "The High Court",
+            "children": [
+                "The Gods and Goddesses of the continent."
+            ]
+        },
+        "ironforge": {
+            "text": "The Ironforge Family",
+            "children": [
+                "Knights and Smiths of Northrend"
+            ]
+        },
+        "riverfrost": {
+            "text": "The Riverfrost Family",
+            "children": [
+                "Barons of Northrend"
+            ]
+        },
+        "icicle_syndicate": {
+            "text": "The Icicle Syndicate",
+            "children": [
+                "Criminals of Northren"
+            ]
+        },
+        "northern_priates": {
+            "text": "The Northren Priates",
+            "children": [
+                "Pirates that operate along the northern and gravel coasts"
+            ]
+        },
+        "consumus_syndicate": {
+            "text": "The Consumus Syndicate",
+            "children": [
+                "The most powerful criminals on the continent"
+            ]
+        },
+        "cys_cult": {
+            "text": "The Followers of Cys",
+            "children": [
+                "Crazies inspired by Alric and Danny"
+            ]
+        }
+    }
 }

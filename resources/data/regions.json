@@ -1,134 +1,137 @@
 {
-  "northrend": {
-    "name": "Northrend",
-    "desc": "Starting City",
-    "factions": [
-      {
-        "name": "[link:organizations,ironforge]",
-        "desc": "Alric's Family"
-      },
-      {
-        "name": "[link:organizations,riverfrost]",
-        "desc": "The ruling barons of Northrend"
-      },
-      {
-        "name": "[link:organizations,icicle_syndicate]",
-        "desc": "The local gang"
-      }
-    ]
-  },
-  "baymoth": {
-    "name": "Baymoth",
-    "desc": "Destination of first quest",
-    "factions": [
-      {
-        "name": "Shipwrigths",
-        "desc": "The assholes trying to take over the north coast."
-      },
-      {
-        "name": "Duke Placeholder",
-        "desc": "The duke of the city and surrounding lands."
-      }
-    ]
-  },
-  "crossway": {
-    "name": "Crossway",
-    "desc": "The intersection of two rivers and the capital of Cyruth",
-    "factions": [
-      {
-        "name": "The Royal Family",
-        "desc": "The leaders of the Cyruth Empire."
-      },
-      {
-        "name": "Duke Placeholder",
-        "desc": "The nominal manager of the city and surrounding lands."
-      }
-    ]
-  },
-  "produs": {
-    "name": "Produs",
-    "desc": "A city built of woven rope amoung Lord Growth's branches.",
-    "factions": [
-      {
-        "name": "[link:high_court,growth]",
-        "desc": "Largely inactive, but if one does manage to anger it within it's branches, they will surely die"
-      },
-      {
-        "name": "The Council",
-        "desc": "The heads of the ruleing noble families"
-      }
-    ]
-  },
-  "consumus": {
-    "name": "Consumus",
-    "desc": "A city carved amoung Lord Growth's roots.",
-    "factions": [
-      {
-        "name": "[link:high_court,growth]",
-        "desc": "While less attentive here than amoung it's branches, attempting to harm it is still a fatal mistake."
-      },
-      {
-        "name": "The Syndicate",
-        "desc": "Led by Lord Theft and Lady Poison, the syndicate represents the most powerful criminal element on Cyruth."
-      }
-    ]
-  },
-  "silvaar": {
-    "name": "Silvaar",
-    "desc": "The regional capital of the Sivaaran Mountains, Silvaar is held within the largest peak of the range. The smoke rising from it's numerous forges often makes the mountain look like a volcano.",
-    "factions": [
-      {
-        "name": "[link:high_court,mend] and [link:high_court,innovation]",
-        "desc": "The lords rule over silvaar, encoraging many disiplines of crafting, but with a focus on smithing."
-      }
-    ]
-  },
-  "faiwer": {
-    "name": "Faiwer Sea",
-    "desc": "A remarkably calm sea to the south or Cyruth.",
-    "factions": [
-      {
-        "name": "[link:high_court,sea]",
-        "desc": "Faiwer is the principle home and teritory of Lady Sea, who treats the area like a garden. While she allows fishing and travel to some extent, anyone who disturbs it is killed or bared from returning."
-      }
-    ]
-  },
-  "grendale": {
-    "name": "The Grendale Forest",
-    "desc": "A massive forest in the north eastern part of Cyruth, covering nearly a fifth of the land. It is notable for having a high earth alignment and as the source of groed wood.",
-    "factions": [
-      {
-        "name": "The Lix",
-        "desc": "Despite the continued decline of their race, if is still dangerous to be alone in the deep forest"
-      },
-      {
-        "name": "The Imperial Legion",
-        "desc": "The Imperial Legion maintains a presence here, centered in Clearstream."
-      }
-    ]
-  },
-  "arena": {
-    "name": "The Arena",
-    "desc": "A city built in a massive crater left behind by a cataclysmic fight. Later fights left comparatively smaller craters that make up the city's many arenas.",
-    "factions": [
-      {
-        "name": "Soilders of Valor",
-        "desc": "Lord Valor's army is headquartered here, and many fights and fighters are sponsored by either the Lord himself or one of his officers."
-      }
-    ]
-  },
-  "gravel_coast": {
-    "name": "The Gravel Coast",
-    "desc": "The eastern coast of Cyruth",
-    "factions": [
-      {
-        "name": "[link:organizations,northern_pirates]",
-        "desc": "The main hunting grounds of the pirates"
-      }
-    ]
-  },
-  "tribbals": {
-    "name": "The Tribbal Islands",
-    "desc": "Islands in the Lake Tribbal"
-  }
+    "title": "Regions",
+    "sections": {
+        "grendale": {
+            "text": "Grendale",
+            "children": [
+                "A massive forest in the northern part of Cyruth",
+                {
+                    "text": "Locations",
+                    "children": [
+                        {
+                            "text": "Northrend",
+                            "children": [
+                                "The starting city",
+                                {
+                                    "text": "Noteable Places",
+                                    "children": [
+                                        {
+                                            "text": "The Squeaky Hinge",
+                                            "children": [
+                                                "A bar in Northrend owned by Mr. Copper. Danny's mom works there to pay for her husband's tab. Danny meets his first master, Morcar, here and learns to play the lute."
+                                            ]
+                                        },
+                                        {
+                                            "text": "Ironforge Mannor",
+                                            "children": [
+                                                "The family home of the ironforge family."
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "tribbal-highlands": {
+            "text": "Tribbal Highlands",
+            "children": [
+                {
+                    "text": "Locations",
+                    "children": [
+                        {
+                            "text": "Baymoth",
+                            "children": [
+                                "The seat of power of the regional duke."
+                            ]
+                        },
+                        {
+                            "text": "Lake Tribbal",
+                            "children": [
+                                "A large lake"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "gravel-cost": {
+            "text": "The Gravel Coast",
+            "children": [
+                "The eastern coast of Cyruth"
+            ]
+        },
+        "silland": {
+            "text": "Silland Swamp",
+            "children": [
+                "Spider infested swamp in south-eastern Cyruth."
+            ]
+        },
+        "growth-plains": {
+            "text": "Plains of Growth",
+            "children": [
+                "The fertile plains surrounding Lord Growth."
+            ]
+        },
+        "faiwer-sea": {
+            "text": "The Faiwer Sea",
+            "children": [
+                "The southern sea of Cyruth"
+            ]
+        },
+        "silvaaran-mountains": {
+            "text": "The Silvaaran Mountains",
+            "children": [
+                "The mountains streching through the middle of Cyruth",
+                {
+                    "text": "Locations",
+                    "children": [
+                        {
+                            "text": "Silvaar",
+                            "children": [
+                                "A city carved into the interior of a mountain."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "scorchlands": {
+            "text": "The Scorchedlands",
+            "children": [
+                "A massive desert consisting of sun baked clay in the south west of Cyruth.",
+                {
+                    "text": "Locations",
+                    "children": [
+                        {
+                            "text": "The Arena",
+                            "children": [
+                                "Massive crater formed from an unknown event in the distant past. The crater was used as an arena for many high level fights in the past, resulting in many smaller craters inside of it. In modern times, the main crater has become a highly martial city with the sub-craters serving as areans for duels and fights."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "icide-tundra": {
+            "text": "Icide Tundra",
+            "children": [
+                "The northwestern tip of Cyruth. The region faces year-round blizzards making it extremely difficult to navigate by land. The sea is even more treacherous due to the storms and numerous icebergs in the area.",
+                {
+                    "text": "Locations",
+                    "children": [
+                        {
+                            "text": "The Isle of the Kinnabari",
+                            "children": [
+                                "A large island off the very northern tip of the Icide Tundra. The only way to reach it is to wait for winter to freeze the ocean between it and the mainland solid.",
+                                "The island is the home of the Kinnabri people."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
 }

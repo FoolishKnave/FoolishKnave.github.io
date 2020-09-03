@@ -1,0 +1,92 @@
+{
+    "title": "Side Characters",
+    "sections": {
+        "northrend": {
+            "text": "Northrend",
+            "children": [
+                {
+                    "text": "Bruno Riverfrost",
+                    "children": [
+                        "Alric and Danny's childhood bully."
+                    ]
+                },
+                {
+                    "text": "Ms. Joyfield",
+                    "children": [
+                        "The teacher at the school Alric and Danny go to."
+                    ]
+                },
+                {
+                    "text": "Morcar",
+                    "children": [
+                        "A bard employed at the Squeaky Hinge, he takes Danny as an aprentice to get out of doing work."
+                    ]
+                }
+            ]
+        },
+        "alrics-family": {
+            "text": "Alric's Family",
+            "children": [
+                {
+                    "text": "Fergal Ironfroge",
+                    "children": [
+                        "The son of a prominent smith and knight as well as a smith and knight himself, he spends most of his time either in the forge or training himself and his household."
+                    ]
+                },
+                {
+                    "text": "Erin Ironforge",
+                    "children": [
+                        "Alric's over-protective older sister."
+                    ]
+                },
+                {
+                    "text": "Tabot",
+                    "children": [
+                        "A former soldier who served under and befriended Fergal Ironforge. His cultivation had stagnated until he entered the Ironforge family's service, where he was able to advance."
+                    ]
+                }
+            ]
+        },
+        "dannys-family": {
+            "text": "Danny's Family",
+            "children": [
+                {
+                    "text": "Danny's Mom",
+                    "children": [
+                        "Danny's Mom. She works as a barmaid at the Squeaky Hinge."
+                    ]
+                },
+                {
+                    "text": "Joveta Broom",
+                    "children": [
+                        "Danny's younger sister."
+                    ]
+                },
+                {
+                    "text": "David Hearth",
+                    "children": [
+                        "One of Danny's older brothers. He is a guard for the Riverfrost family."
+                    ]
+                },
+                {
+                    "text": "Josh Alley",
+                    "children": [
+                        "One of Danny's older brothers. He is an enforcer for the icicle sindycate"
+                    ]
+                },
+                {
+                    "text": "Randyl Bellow",
+                    "children": [
+                        "One of Danny's older brothers. He is enployed by the Ironforge Family as an apprentice blacksmith."
+                    ]
+                },
+                {
+                    "text": "Ash",
+                    "children": [
+                        "Danny's pet bluejay."
+                    ]
+                }
+            ]
+        }
+    }
+}
